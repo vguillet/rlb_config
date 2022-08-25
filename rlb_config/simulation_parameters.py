@@ -14,7 +14,11 @@ ref_1_latlon = (44.27303, 1.72456)
 ref_2_pixel = (871, 908)
 ref_2_latlon = (44.276598, 1.730598)
 
-# ------------- Obstacles signal blocking probabilities
+# ------------- Comms sim
+# pose_tracked = "room"
+pose_tracked = "projected"
+
+# - Obstacles signal blocking probabilities
 hard_obstacles_signal_blocking_prob = 1.
 dense_vegetation_signal_blocking_prob = .0
 light_vegetation_signal_blocking_prob = .0
