@@ -25,7 +25,7 @@ light_vegetation_signal_blocking_prob = .0
 
 
 # ------------- Turtle emulator
-agent_count = 5
+agent_count = 6
 agent_start_index = 1
 agent_spawn_delay = 0.5
 
