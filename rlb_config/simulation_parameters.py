@@ -20,12 +20,12 @@ pose_tracked = "projected"
 
 # - Obstacles signal blocking probabilities
 hard_obstacles_signal_blocking_prob = 1.
-dense_vegetation_signal_blocking_prob = .3
-light_vegetation_signal_blocking_prob = .1
+dense_vegetation_signal_blocking_prob = .15
+light_vegetation_signal_blocking_prob = .05
 
 
 # ------------- Turtle emulator
-agent_count = 6
+agent_count = 1
 agent_start_index = 1
 agent_spawn_delay = 0.5
 
